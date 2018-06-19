@@ -1,7 +1,10 @@
 ## specify the sts.ini file thru eclipse parameter
+### 1.run by exe
 "C:\Program Files\sts-bundle\STS.exe" --launcher.ini C:\work\Banking\STS.ini
+### 2.run by jar
+C:\work\Banking\jdk1.8.0_92\bin\java -jar "C:\Program Files\sts-bundle\plugins\org.eclipse.equinox.launcher_1.3.100.v20150511-1540.jar"
 
-refer [eclipse help](http://help.eclipse.org/kepler/index.jsp?topic=%252Forg.eclipse.platform.doc.isv%252Freference%252Fmisc%252Fruntime-options.html) [eclipse wiki](https://wiki.eclipse.org/Eclipse.ini)
+refer [eclipse help](http://help.eclipse.org/kepler/index.jsp?topic=%252Forg.eclipse.platform.doc.isv%252Freference%252Fmisc%252Fruntime-options.html) [eclipse wiki](https://wiki.eclipse.org/Eclipse.ini) [FAQ_How_do_I_run_Eclipse](https://wiki.eclipse.org/FAQ_How_do_I_run_Eclipse%3F)
 
 
 # Eclipse Class Decompiler
