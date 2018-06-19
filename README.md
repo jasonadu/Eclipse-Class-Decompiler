@@ -1,3 +1,9 @@
+## specify the sts.ini file thru eclipse parameter
+"C:\Program Files\sts-bundle\STS.exe" --launcher.ini C:\work\Banking\STS.ini
+
+refer [eclipse help](http://help.eclipse.org/kepler/index.jsp?topic=%252Forg.eclipse.platform.doc.isv%252Freference%252Fmisc%252Fruntime-options.html)
+
+
 # Eclipse Class Decompiler
 Eclipse Class Decompiler integrates **JD**, **Jad**, **FernFlower**, **CFR**, **Procyon** seamlessly with Eclipse and allows Java developers to **debug class files without source code directly**.
 
